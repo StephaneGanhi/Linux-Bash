@@ -1,0 +1,1 @@
+* * 1-10 * * /home/ubuntu/exam_GANIH/exam.sh
